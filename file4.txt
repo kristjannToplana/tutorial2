@@ -1,5 +1,11 @@
 This is a modification
 This is a modification to another branch
+<<<<<<< HEAD
 This is a modification that I wrote in the main branch. 
 You might have to pick one. 
+=======
+I am adding something here. When we finish this we have to 
+decide wether to keep the modification branch version or the main 
+branch version. 
+>>>>>>> modification
 
