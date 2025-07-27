@@ -1,2 +1,6 @@
 This is a modification
 This is a modification to another branch
+I am adding something here. When we finish this we have to 
+decide wether to keep the modification branch version or the main 
+branch version. 
+
